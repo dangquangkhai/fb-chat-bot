@@ -1,0 +1,14 @@
+{
+  "name": "fb-chat-bot",
+  "version": "1.0.0",
+  "description": "Facebook chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khai Dang",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.4.0"
+  }
+}
